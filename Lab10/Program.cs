@@ -22,7 +22,7 @@ namespace Lab10
                     if (value != 0)
                         gradus = value;
                     else
-                        Console.WriteLine("Значение градусов не может быть нулевым");       // проба проверки
+                        Console.WriteLine("Значение градусов не может быть нулевым");               // проба проверки
                 }
                 get
                 { return gradus; }
